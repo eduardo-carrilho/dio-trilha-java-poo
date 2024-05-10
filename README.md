@@ -6,3 +6,11 @@ Repositório utilizado para armazenar a minha progressão no curso de Programaç
 
 Fundamentos da Programação Orientada a Objetos com Java:
 -Conceitos de POO
+-Classes
+-Pacotes
+-Visibilidade dos recursos
+-Getters e Setters
+-Construtores
+-Enums
+-UML
+
